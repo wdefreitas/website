@@ -6,14 +6,16 @@ about:
   image: img/profile.png
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals
+
+Lawyer turned data scientist playing in the healthcare AI space.
 
 ## Education
 
+Political Science, Law, Biostatistics
+
 ## Experience
 
+Bringing open source tools and methods to the government to help understand and solve healthcare problems.
 :::
-
-Thanks for checking out my web site!
